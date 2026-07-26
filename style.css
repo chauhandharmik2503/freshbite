@@ -1,5 +1,5 @@
 html{
-    scroll-padding-top: 30%;
+    scroll-padding-top: 25vh;
 }
 body 
 {
@@ -21,7 +21,7 @@ nav
 #home
 {
      
-    margin-top:30%;
+    margin-top:25vh;
    
     background-color: rgb(236, 236, 159);
 }

@@ -28,7 +28,7 @@ nav
 }
 #welcome
 {
-    height:50vh;
+    width: 100vw;
     align-content: center;
 }
 #menu
